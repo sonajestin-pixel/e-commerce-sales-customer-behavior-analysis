@@ -43,7 +43,7 @@ After cleaning, I used Pivot Tables to analyse data and calculate key performanc
 ## Business Interpretation
 Middle-aged customers are frequent buyers, while senior customers are high-value buyers.
 
-Improving prodct quality and customer satisfaction in the Clothing could reduce returns.
+Improving product quality and customer satisfaction in the Clothing could reduce returns.
 
 Marketing efforts should focus on retaining middle-aged customers while targeting seniors with high-value offers.
 
